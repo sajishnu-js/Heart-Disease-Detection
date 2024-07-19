@@ -1,7 +1,5 @@
 # Heart-Disease-Detection
 
-This study uses AI algorithms (XGBoost, LSTM, Transformer) and a hybrid model (XGBoost-LSTM) to improve heart disease diagnosis accuracy. Using EEG signals and patient details, the hybrid model achieved a 90% accuracy, showcasing the potential of ensemble learning for early detection and treatment.
-
 Cardiovascular disease is the foremost cause of the death, in which it affects millions of deaths worldwide. Early detection of the disease plays a crucial role in improving the patient outcomes. In recent time, Artificial intelligence demonstrates promising outcomes in medical diagnostics.
 
 This study aims to improve the accuracy of the diagnosis of heart disease by utilizing algorithms specifically XGBoost, Long Short-Term Memory (LSTM) and Transformer and combination of XGBoost and LSTM.
